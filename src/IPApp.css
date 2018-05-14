@@ -1,0 +1,22 @@
+* {
+	font-family: 'Rubik', sans-serif;
+}
+
+.IPApp {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.container span {
+	font-size: 35px;
+	color: #303f9f;
+}
